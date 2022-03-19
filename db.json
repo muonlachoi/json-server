@@ -1,0 +1,165 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "tuasach": "Chiến Tranh Và Hòa Bình",
+      "dongia": 20,
+      "mota": "12321321",
+      "loai": "323123",
+      "ngaynhap": "2022-03-17T17:52:35.615Z"
+    },
+    {
+      "id": 3,
+      "tuasach": "The Russian 2",
+      "dongia": 50,
+      "mota": "Sách hay",
+      "loai": "Viễn tưởng",
+      "ngaynhap": "03/17/2022"
+    },
+    {
+      "id": 4,
+      "tuasach": "The Russian 3",
+      "dongia": 50,
+      "mota": "Sách hay",
+      "loai": "Viễn tưởng",
+      "ngaynhap": "03/17/2022"
+    },
+    {
+      "id": 5,
+      "tuasach": "The Russian 4",
+      "dongia": 50,
+      "mota": "Sách hay",
+      "loai": "Viễn tưởng",
+      "ngaynhap": "03/17/2022"
+    },
+    {
+      "id": 6,
+      "tuasach": "Susanna Clarke 3",
+      "dongia": 50,
+      "mota": "Sách phiêu lưu ",
+      "loai": "GIả tưởng",
+      "ngaynhap": "2022-03-17T14:44:15.294Z"
+    },
+    {
+      "id": 9,
+      "tuasach": "Ông lão đánh cá và con cá vàng",
+      "dongia": 20,
+      "mota": "Sách kinh điển",
+      "loai": "Văn học",
+      "ngaynhap": "2022-03-17T19:00:21.361Z"
+    },
+    {
+      "id": 10,
+      "tuasach": "Chúa tể của những chiếc nhẫn",
+      "dongia": 20,
+      "mota": "Hay lắm luôn",
+      "loai": "GIả tưởng",
+      "ngaynhap": "2022-03-17T19:10:06.540Z"
+    },
+    {
+      "id": 12,
+      "tuasach": "Cuốn theo chiều gió",
+      "dongia": 50,
+      "mota": "cho free",
+      "loai": "GIả tưởng",
+      "ngaynhap": "2022-03-17T19:50:32.314Z"
+    },
+    {
+      "id": 13,
+      "tuasach": "Cuốn theo chiều gió",
+      "dongia": 10,
+      "mota": "Sách hấp dẫn",
+      "loai": "Tiểu thuyết",
+      "ngaynhap": "2022-03-18T16:43:51.949Z"
+    },
+    {
+      "id": 14,
+      "tuasach": "Dế mèn phiêu lưu ký",
+      "dongia": 10,
+      "mota": "Hấp dẫn",
+      "loai": "Tiểu thuyết",
+      "ngaynhap": "2022-03-19T05:42:08.437Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": 3,
+      "book_title": "Cuốn theo chiều gió",
+      "customerName": "Dũng",
+      "quantity": 2,
+      "created_at": "2022-03-18T14:52:16.420Z"
+    },
+    {
+      "id": 4,
+      "book_title": "Chiến Tranh Và Hòa Bình",
+      "customerName": "Rodolfo Quigley",
+      "quantity": 5,
+      "created_at": "2022-03-18T16:46:27.512Z"
+    },
+    {
+      "id": 5,
+      "book_title": "Cuốn Theo Chiều Gió",
+      "customerName": "Khách hàng số 3",
+      "quantity": 1,
+      "created_at": "2022-03-18T16:46:45.860Z"
+    },
+    {
+      "id": 6,
+      "book_title": "The Russian 4",
+      "customerName": "Chú ếch con",
+      "quantity": 1,
+      "created_at": "2022-03-18T17:00:09.791Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 3,
+      "email": "dung123@gmail.com",
+      "name": "Trùm phản diện 2",
+      "password": "123",
+      "created_at": "2022-03-18T13:53:13.263Z"
+    },
+    {
+      "id": 4,
+      "email": "chu5@gmail.com",
+      "name": "Phim mới",
+      "password": "123",
+      "created_at": "2022-03-18T15:08:46.558Z"
+    },
+    {
+      "id": 5,
+      "email": "dung2@gmail.com",
+      "name": "Ngô Văn Dũng 21",
+      "password": "123",
+      "created_at": "2022-03-18T16:34:01.617Z"
+    },
+    {
+      "id": 6,
+      "email": "phachloipha2@gmail.com",
+      "name": "anhdung2",
+      "password": "123",
+      "created_at": "2022-03-18T18:04:06.183Z"
+    },
+    {
+      "id": 7,
+      "email": "ngovandung@gmail.com",
+      "name": "Phim mới",
+      "password": "123",
+      "created_at": "2022-03-19T05:01:59.964Z"
+    },
+    {
+      "id": 9,
+      "email": "phachloipha@gmail.com",
+      "name": "ngovandung",
+      "password": "123",
+      "created_at": "2022-03-19T07:29:16.915Z"
+    },
+    {
+      "id": 10,
+      "email": "ngovandung92425@gmail.com",
+      "name": "ngovandung 2",
+      "password": "dung123",
+      "created_at": "2022-03-19T13:00:50.974Z"
+    }
+  ]
+}
